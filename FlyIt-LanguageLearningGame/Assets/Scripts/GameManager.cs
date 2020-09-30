@@ -23,6 +23,9 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     private Text falseAnswerText;
 
+    [SerializeField]
+    private Animator animator;
+
 
     //storing the delay between answering a question, and displaying a new one
     [SerializeField]
@@ -76,6 +79,8 @@ public class GameManager : MonoBehaviour
 
     public void userSelectTrue ()
     {
+
+        animator.SetTrigger("True");
         if(currentQuestion.isTrue)
         {
             Debug.Log("Correct");
@@ -90,6 +95,7 @@ public class GameManager : MonoBehaviour
 
     public void userSelectFalse()
     {
+        animator.SetTrigger("False");
         if (!currentQuestion.isTrue)
         {
             Debug.Log("Correct");

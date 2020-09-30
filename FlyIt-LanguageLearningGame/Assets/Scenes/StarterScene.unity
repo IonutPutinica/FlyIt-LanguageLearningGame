@@ -162,6 +162,7 @@ MonoBehaviour:
   factText: {fileID: 2103858900}
   trueAnswerText: {fileID: 974890463}
   falseAnswerText: {fileID: 1197963630}
+  animator: {fileID: 1217785376}
   timeBetweenQuestions: 1
 --- !u!4 &174622724
 Transform:
