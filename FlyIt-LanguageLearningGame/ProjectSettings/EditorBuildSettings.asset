@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 5b36839c35df51e489746b233a526d32
   - enabled: 1
-    path: Assets/Scenes/TestScene1.unity
+    path: Assets/Scenes/SpanishGame.unity
     guid: b9ae45bab5dcbf547b49b32bdf64a749
   - enabled: 1
     path: Assets/Scenes/TestScene2.unity
