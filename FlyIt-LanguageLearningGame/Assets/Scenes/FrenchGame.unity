@@ -298,15 +298,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   questions:
-  - fact: I am a genius
+  - fact: The french numeral for 7 is sept
     isTrue: 1
-  - fact: Violets are red
+  - fact: Chien means cow in french
     isTrue: 0
-  - fact: 2+2=4
+  - fact: "Le poulet fait des \u0153ufs means the chicken makes eggs"
     isTrue: 1
-  - fact: Nigga Patoc
-    isTrue: 1
-  - fact: Yes nigga
+  - fact: Cinque is 5 in french
+    isTrue: 0
+  - fact: Lait is the french word for milk
     isTrue: 1
   factText: {fileID: 2103858900}
   trueAnswerText: {fileID: 974890463}
