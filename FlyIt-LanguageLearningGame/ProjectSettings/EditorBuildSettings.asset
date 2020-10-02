@@ -20,4 +20,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ItalianGame.unity
     guid: 9ccfc4d385a005e4d8a790e94cae74d4
+  - enabled: 1
+    path: Assets/Scenes/RomanianGame.unity
+    guid: ac8bfcd34a8022e44812fc5f0f1316a4
+  - enabled: 1
+    path: Assets/Scenes/LatvianGame.unity
+    guid: 0b3325a0ed7c9484b8b57dda56581c59
+  - enabled: 1
+    path: Assets/Scenes/DanishGame.unity
+    guid: fb546d7591efd2a4ab88c110df5c23eb
   m_configObjects: {}
