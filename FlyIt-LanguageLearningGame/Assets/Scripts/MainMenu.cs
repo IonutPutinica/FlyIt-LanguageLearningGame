@@ -40,6 +40,16 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 7);
     }
 
+    public void PlayPolishGame()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 8);
+    }
+
+    public void PlayRussianGame()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 9);
+    }
+
 
     public void BackToMainMenu()
     {

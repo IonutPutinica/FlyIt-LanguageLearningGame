@@ -29,4 +29,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DanishGame.unity
     guid: fb546d7591efd2a4ab88c110df5c23eb
+  - enabled: 1
+    path: Assets/Scenes/PolishGame.unity
+    guid: 2465790863de06b4ebab06acf1eade3a
+  - enabled: 1
+    path: Assets/Scenes/RussianGame.unity
+    guid: 5f4afa14012adc349badbf743200cfb9
   m_configObjects: {}
